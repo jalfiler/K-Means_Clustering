@@ -1,4 +1,4 @@
-# K-Means_Clustering
+# k-means Clustering
 
 **Output:** 
 
